@@ -3,22 +3,22 @@
 
 ## Summary of Assignment
 
-This repository contains my Machine Learning and Statistics Assessmetn.  
+This repository contains my Machine Learning and Statistics Assessment. It is comprised of XXX regular Tasks and one project on Keras 
 
 I commenced work on this assignment on 5th October 2022 and completed work for the deadline of 7th January 2023.
 
-[See here for the Assignment Instructions 2022](https://github.com/LauraBrogan/2022-MLA-Assessment/blob/main/2223-machine-learning-stats-assessment.pdf)
+[See here for the Assignment Instructions 2023](https://github.com/LauraBrogan/2022-MLS-Assessment/blob/main/2223-machine-learning-stats-assessment.pdf​)
 
 ## Liabries used in this Assignment
 
-I impoted: Matplotlib, Seaborn
+I impoted: Matplotlib, ???????????????????
 
 * Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms. 
  
 
 
 ## Downloading My Repositiory from git hub
-1. Go to Git Hub using the following link Click Here:[Click Here:](https://github.com/LauraBrogan/2022-MLA-Assessment)
+1. Go to Git Hub using the following link Click Here:[Click Here:](https://github.com/LauraBrogan/2022-MLS-Assessment)
 2. Click the download button
 
 ## Whats contained in the repository
