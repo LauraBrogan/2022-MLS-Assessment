@@ -7,7 +7,7 @@ This repository contains my Machine Learning and Statistics Assessment. It is co
 
 I commenced work on this assignment on 5th October 2022 and completed work for the deadline of 7th January 2023.
 
-[See here for the Assignment Instructions 2023](https://github.com/LauraBrogan/2022-MLS-Assessment/blob/main/2223-machine-learning-stats-assessment.pdf​)
+[See here for the Assignment Instructions 2023](https://github.com/LauraBrogan/2022-MLS-Assessment/blob/main/2223-machine-learning-stats-assessment.pdf)
 
 ## Liabries used in this Assignment
 
