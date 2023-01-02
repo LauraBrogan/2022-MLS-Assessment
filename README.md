@@ -19,11 +19,11 @@ I impoted: Matplotlib, NumPy, Pandas, Math, Scipy.Stats, Tensor Flow.
 
 * Pandas is an open source, BDS-licenced libary providing high-oerfimance, easy-to-use data structures and data analysis tools. 
 
-* Math Python built-in module that you can use for mathematical tasks.*1*
+* Math Python built-in module that you can use for mathematical tasks.{*1*}
 
-* Scipy.Stats This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and   statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more.*2*
+* Scipy.Stats This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and   statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more.{*2*}
 
-* TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of     tasks but has a particular focus on training and inference of deep neural networks.*3*
+* TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of     tasks but has a particular focus on training and inference of deep neural networks.{*3*}
 
 
 ## Downloading My Repositiory from git hub
@@ -39,7 +39,7 @@ This repository contains the following files:
 + project-anomaly-detection.ipynb -  This the the assessement project notebook.
 
 
-## Running the Jupyter Notebook *4*
+## Running the Jupyter Notebook {*4*}
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows):
 
 jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
@@ -63,4 +63,5 @@ Readme References:
 
 4.Running the Jupyter Notebook -  https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-***Laura Brogan 06/01/2023
+
+***Laura Brogan 06/01/2023***
