@@ -36,7 +36,8 @@ This repository contains the following files:
 + 2223-machine-learning-stats-assessment.pdf - Assignment Instructions
 + Regular Tasks folder which contains 3 Jupyter Notebooks one for each of the tasks that were to be completed - Statistics, Models Parameters. Also in this folder is Math.jpg and fisher-extract-table.JPG which are images used in the statistics-task Notebook.
 + README.md - This document
-+ project-anomaly-detection.ipynb -  This the the assessement project notebook.
++ project-anomaly-detection.ipynb -  This the the assessement project notebook on keras.
++ Git Ignore file
 
 
 ## Running the Jupyter Notebook {*4*}
